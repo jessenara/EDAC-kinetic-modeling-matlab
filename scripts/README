@@ -1,1 +1,5 @@
+# Electrochemical Mass-Transport Modeling
 
+This directory contains the MATLAB scripts used to derive and validate the core thermodynamic and mass-transport metrics for the continuous-flow E-DAC system.
+
+* `Flow Rate.m`: Derives the theoretical minimum volumetric flow rate ($Q_{min}$) of the anodic hydrogen feed by integrating the Ideal Gas Law with Faraday’s Law of Electrolysis. This script subsequently calculates the continuous anodic stoichiometric ratio ($\lambda$), providing the mathematical proof that the system operates independently of mass-transport limitations.
