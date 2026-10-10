@@ -1,1 +1,5 @@
-Generate figure of literature SEC data sorted from highest to lowest
+# Publication-Style Figure Generation
+
+This directory contains the MATLAB scripts used to process scientific data and generate high-resolution thermodynamic plots for the E-DAC project.
+
+* `Literature Review.m`: Analyzes and graphs thermodynamic desorption energies (SEC) for various carbon capture sorbents across existing scientific literature. The script sorts and visualizes data from highest to lowest energy intensity, comparing the baseline $SEC_flow against traditional thermal solvents (e.g., monoethanolamine, piperazine) and alternative solid sorbents (e.g., metal-organic frameworks, polyethylenimine).
